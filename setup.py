@@ -10,7 +10,7 @@ REQUIRED = [
 with open( "README.md", "r") as fh:
     LONG_DESCRIPTION = fh.read()
     setuptools.setup(
-		    name= "lambdata_rselent",
+		    name= "lambdata-rselent",
             version = "0.1.1",
 		    author = "rselent",
 		    description = "A collection of data science helper functions",
