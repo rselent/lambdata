@@ -10,6 +10,7 @@ twine = "*"
 numpy = "*"
 pandas = "*"
 scikit-learn = "*"
+seaborn = "*"
 
 [requires]
 python_version = "3.7"
